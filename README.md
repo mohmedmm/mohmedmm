@@ -7,18 +7,44 @@
 [![Email](https://img.shields.io/badge/Email-zzzzmmmm298%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zzzzmmmm298@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Tripoli%2C_Libya-007A3D?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com)
 [![Profile Views](https://hits.sh/github.com/mohmedmm.svg?style=flat-square&label=Profile+Views&color=007ec6)](https://hits.sh/github.com/mohmedmm/)
-[![Pull Shark](https://img.shields.io/badge/GitHub-Pull_Shark-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/mohmedmm?tab=achievements)
-[![YOLO](https://img.shields.io/badge/YOLO-Unlocked-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/mohmedmm?tab=achievements)
 
 <p align="center">
   <em>Systems and full-stack software engineer contributing directly to industry-standard machine learning runtimes, silicon kernels, distributed inference engines, and scalable developer ecosystems.</em>
 </p>
 
-</div>
+<!-- 🏅 HERO ACHIEVEMENTS SHOWCASE -->
+<table align="center" style="border: none; border-collapse: collapse; margin-top: 10px; margin-bottom: 5px;">
+  <tr>
+    <td align="center" style="border: none; padding: 6px 18px;">
+      <a href="https://github.com/mohmedmm?tab=achievements">
+        <img src="https://github.githubassets.com/assets/pair-extraordinaire-bronze-797214f41e7e.png" width="68" height="68" alt="Pair Extraordinaire Bronze (x2)" /><br/>
+        <img src="https://img.shields.io/badge/Pair_Extraordinaire-Bronze_x2-d27b46?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 6px 18px;">
+      <a href="https://github.com/mohmedmm?tab=achievements">
+        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="68" height="68" alt="Pull Shark" /><br/>
+        <img src="https://img.shields.io/badge/Pull_Shark-Unlocked-8957e5?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 6px 18px;">
+      <a href="https://github.com/mohmedmm?tab=achievements">
+        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="68" height="68" alt="YOLO" /><br/>
+        <img src="https://img.shields.io/badge/YOLO-Unlocked-0969da?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
+</div>
+
 ## 🏆 Open Source Contributions & Impact Overview
+
+<div align="center">
+  <p><em>Active core contributor to tier-1 AI accelerators, distributed inference runtimes, and developer frameworks:</em></p>
+</div>
 
 <div align="center">
 
@@ -30,7 +56,7 @@
 | <img src="https://avatars.githubusercontent.com/u/25720743?s=48&v=4" width="20" height="20" valign="middle" /> **Hugging Face** | `Transformers Framework` | [**#48549**](https://github.com/huggingface/transformers/pull/48549): `feat(hf_argparser): support dict-typed dataclass fields from CLI` *(fixes #48030)* | [![Active](https://img.shields.io/badge/PR_%2348549-Active-238636?style=flat-square&logo=huggingface&logoColor=white)](https://github.com/huggingface/transformers/pull/48549) |
 | <img src="https://avatars.githubusercontent.com/u/132148187?s=48&v=4" width="20" height="20" valign="middle" /> **LiteLLM** | `AI Gateway & Proxy` | [**#47191**](https://github.com/BerriAI/litellm/pull/47191): `fix(transformations): raise on invalid completion responses for fireworks/ollama`<br/>[**#40282**](https://github.com/BerriAI/litellm/pull/40282): `fix(streaming): preserve reasoning tokens and usage in chunk builder`<br/>[**#41603**](https://github.com/BerriAI/litellm/pull/41603): `fix(proxy): resolve model_group_alias in vertex live setup extraction` | [![3 Active](https://img.shields.io/badge/3_PRs-Active-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Amohmedmm) |
 | <img src="https://avatars.githubusercontent.com/u/129705257?s=48&v=4" width="20" height="20" valign="middle" /> **LibreChat** | `Full-Stack AI Architecture` | [**#16223**](https://github.com/danny-avila/LibreChat/pull/16223): `Resolve file search indexing when attaching assets directly from files panel` | [![Merged](https://img.shields.io/badge/PR_%2316223-Merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/danny-avila/LibreChat/pull/16223) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" width="20" height="20" valign="middle" /> **OpenAI** | `SDK & Workload Identity` | [**#4017**](https://github.com/openai/openai-python/issues/4017): `fix(auth): preserve response and prevent duplicate error wrapping in workload providers` | [![Verified Solution](https://img.shields.io/badge/Solution-Verified-0969da?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/openai-python/issues/4017#issuecomment-6278109476) |
+| <img src="https://avatars.githubusercontent.com/u/14957082?s=48&v=4" width="20" height="20" valign="middle" /> **OpenAI** | `SDK & Workload Identity` | [**#4017**](https://github.com/openai/openai-python/issues/4017): `fix(auth): preserve response and prevent duplicate error wrapping in workload providers` | [![Verified Solution](https://img.shields.io/badge/Solution-Verified-0969da?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/openai-python/issues/4017#issuecomment-6278109476) |
 
 </div>
 
@@ -61,9 +87,9 @@
 
 ### AI, Machine Learning & Silicon Runtimes
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logo=python&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-111111?style=for-the-badge&logo=python&logoColor=white)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Triton](https://img.shields.io/badge/OpenAI_Triton-412991?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -92,9 +118,11 @@
 
 | Project | Tech Stack | Overview |
 | :--- | :--- | :--- |
-| **NBOX Virtual Numbers & SMS Hub** | `TypeScript` `Node.js` `PostgreSQL` `Redis` `Docker` | High-throughput virtual SMS verification gateway featuring multi-provider failover, rate-limiting windows, and transactional delivery. |
-| **Shkobba & Tarneeb Engine** | `Flutter` `Dart` `Python` `WebSockets` | Real-time card gaming platform with state synchronization, matchmaking pools, and automated administrative operations. |
-| **Autonomous Code Auditor & AST Hunter** | `Python` `Pytest` `GitHub API` `AST` | Intelligent static analysis and test generation harness detecting numerical regressions, unhandled edge-cases, and upstream API drift. |
+| [**gemma-vf-agent**](https://github.com/mohmedmm/gemma-vf-agent) | `Python` `Gemma 4` `DeepMind` `Pytest` `AST` | Deterministic Verification-First Agentic Software Engineering with Gemma 4 (Google DeepMind Kaggle Paper Track). |
+| [**system-design-pro**](https://github.com/mohmedmm/system-design-pro) | `Architecture` `Distributed Systems` `Capacity Sizing` `Agent Skill` | Production Distributed Architecture Blueprints, Capacity Sizing Engine & Universal Agent Skill for Antigravity, Claude Code & Cursor. |
+| [**nbox**](https://github.com/mohmedmm/nbox) | `C++` `Neural Video` `Real-Time Upscaler` `ONNX` | Subtle Neural Video Enhancer & Real-Time Upscaler (240p -> 2K/4K) with Zero CPU Load. |
+| [**Libya_ID**](https://github.com/mohmedmm/Libya_ID) | `Python` `FastAPI` `Reverse Engineering` `PostgreSQL` | High-speed real-time caller identification and indexing engine built for local Libyan telecom carriers. |
+| **Card SMS & Virtual Numbers Hub** | `TypeScript` `Node.js` `PostgreSQL` `Redis` `Docker` | High-throughput virtual SMS verification gateway featuring multi-provider failover, rate-limiting windows, and transactional delivery. |
 
 </div>
 
@@ -128,11 +156,12 @@
 
 ## 📬 Let's Connect & Collaborate!
 
+I'm always open to discussing new opportunities, open-source initiatives, or innovative high-performance engineering:
+
+- 🌐 **GitHub:** [@mohmedmm](https://github.com/mohmedmm)
+- 📧 **Direct Email:** [zzzzmmmm298@gmail.com](mailto:zzzzmmmm298@gmail.com)
+- 📍 **Location:** Tripoli, Libya
+
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-mohmedmm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohmedmm)
-[![Email](https://img.shields.io/badge/Email-zzzzmmmm298%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zzzzmmmm298@gmail.com)
-
-*Designed & engineered with precision by Mohammed Alshyakh • Open for high-impact systems & ML collaborations! ⭐*
-
+  <sub>Designed & engineered with precision by Mohammed Alshyakh • Open for high-impact systems & ML collaborations! ⭐</sub>
 </div>
