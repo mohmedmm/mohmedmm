@@ -3,8 +3,9 @@
 # Hi there, I'm Mohammed Alshyakh 👋
 ### ⚡ Systems & Machine Learning Engineer • Open-Source Core Contributor • High-Performance AI Runtimes
 
+[![Website](https://img.shields.io/badge/Platform-nbox.ly-6366F1?style=flat-square&logo=google-chrome&logoColor=white)](https://nbox.ly)
 [![GitHub](https://img.shields.io/badge/GitHub-mohmedmm-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohmedmm)
-[![Email](https://img.shields.io/badge/Email-zzzzmmmm298%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zzzzmmmm298@gmail.com)
+[![Email](https://img.shields.io/badge/Email-alshaykh%40nbox.ly-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alshaykh@nbox.ly)
 [![Location](https://img.shields.io/badge/Location-Tripoli%2C_Libya-007A3D?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com)
 [![Profile Views](https://hits.sh/github.com/mohmedmm.svg?style=flat-square&label=Profile+Views&color=007ec6)](https://hits.sh/github.com/mohmedmm/)
 
@@ -158,10 +159,19 @@
 
 I'm always open to discussing new opportunities, open-source initiatives, or innovative high-performance engineering:
 
-- 🌐 **GitHub:** [@mohmedmm](https://github.com/mohmedmm)
-- 📧 **Direct Email:** [zzzzmmmm298@gmail.com](mailto:zzzzmmmm298@gmail.com)
+- 🌐 **Platform & Portfolio:** [nbox.ly](https://nbox.ly)
+- 💼 **GitHub:** [@mohmedmm](https://github.com/mohmedmm)
+- 📧 **Direct Email:** [alshaykh@nbox.ly](mailto:alshaykh@nbox.ly)
 - 📍 **Location:** Tripoli, Libya
 
 <div align="center">
-  <sub>Designed & engineered with precision by Mohammed Alshyakh • Open for high-impact systems & ML collaborations! ⭐</sub>
+
+[![Website](https://img.shields.io/badge/Platform-nbox.ly-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nbox.ly)
+[![Email](https://img.shields.io/badge/Email-alshaykh%40nbox.ly-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alshaykh@nbox.ly)
+[![GitHub](https://img.shields.io/badge/GitHub-mohmedmm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohmedmm)
+
+<br/>
+
+<sub>Designed & engineered with precision by Mohammed Alshyakh • Open for high-impact systems & ML collaborations! ⭐</sub>
+
 </div>
