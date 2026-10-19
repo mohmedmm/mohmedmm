@@ -4,6 +4,8 @@ Systems and full-stack software engineer contributing to open-source machine lea
 
 ### Merged Upstream Contributions
 
+- **[tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)**
+  - Eliminated non-finite NaN gradients in `moreh_norm_backward` for zero-norm reduced slices via tile-level zero-masking ([#55598](https://github.com/tenstorrent/tt-metal/pull/55598)).
 - **[qdrant/fastembed](https://github.com/qdrant/fastembed)**
   - Normalized fixed-length tokenizer padding to dynamic batch dimensions, preventing ragged batch shape mismatches in ONNX embedding pipelines ([#717](https://github.com/qdrant/fastembed/pull/717), co-author).
 - **[danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)**
