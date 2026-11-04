@@ -1,106 +1,50 @@
 <div align="center">
 
-# Hi there, I'm Mohammed Alshyakh 👋
-### ⚡ Systems & Machine Learning Engineer • Open-Source Core Contributor • High-Performance AI Runtimes
+# Mohammed Alshyakh
+### Systems & Machine Learning Engineer • Open Source Contributor
+**Tripoli, Libya • [nbox.ly](https://nbox.ly) • [alshaykh@nbox.ly](mailto:alshaykh@nbox.ly)**
 
-[![Website](https://img.shields.io/badge/Platform-nbox.ly-6366F1?style=flat-square&logo=google-chrome&logoColor=white)](https://nbox.ly)
 [![GitHub](https://img.shields.io/badge/GitHub-mohmedmm-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohmedmm)
+[![Platform](https://img.shields.io/badge/Platform-nbox.ly-6366F1?style=flat-square&logo=google-chrome&logoColor=white)](https://nbox.ly)
 [![Email](https://img.shields.io/badge/Email-alshaykh%40nbox.ly-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alshaykh@nbox.ly)
-[![Location](https://img.shields.io/badge/Location-Tripoli%2C_Libya-007A3D?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com)
 [![Profile Views](https://hits.sh/github.com/mohmedmm.svg?style=flat-square&label=Profile+Views&color=007ec6)](https://hits.sh/github.com/mohmedmm/)
 
 <p align="center">
-  <em>Systems and full-stack software engineer contributing directly to industry-standard machine learning runtimes, silicon kernels, distributed inference engines, and scalable developer ecosystems.</em>
+  <em>Systems and software engineer contributing upstream fixes and runtime enhancements to foundational machine learning libraries, distributed inference engines, and developer tooling.</em>
 </p>
 
-<!-- 🏅 HERO ACHIEVEMENTS SHOWCASE -->
-<table align="center" style="border: none; border-collapse: collapse; margin-top: 10px; margin-bottom: 5px;">
-  <tr>
-    <td align="center" style="border: none; padding: 6px 18px;">
-      <a href="https://github.com/mohmedmm?tab=achievements">
-        <img src="https://github.githubassets.com/assets/pair-extraordinaire-bronze-797214f41e7e.png" width="68" height="68" alt="Pair Extraordinaire Bronze (x2)" /><br/>
-        <img src="https://img.shields.io/badge/Pair_Extraordinaire-Bronze_x2-d27b46?style=flat-square&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-</div>
+## 🚢 Merged Upstream Contributions
 
-## 🏆 Open Source Contributions & Impact Overview
+Direct code contributions merged into industry-standard open source repositories:
 
-<div align="center">
-  <p><em>Active core contributor to tier-1 AI accelerators, distributed inference runtimes, and developer frameworks:</em></p>
-</div>
-
-<div align="center">
-
-| Organization / Project | Focus Area | Key Contributions & Pull Requests | Status |
+| Organization / Project | Area | Merged Pull Request & Scope | Status |
 | :--- | :--- | :--- | :---: |
-| <img src="https://avatars.githubusercontent.com/u/1342004?s=48&v=4" width="20" height="20" valign="middle" /> **Google** | `AI Frameworks & Dev Platform` | [**#849**](https://github.com/google/etils/pull/849): `fix(epy): ensure case-insensitive hash consistency in StrEnum`<br/>[**#604**](https://github.com/google/langextract/pull/604): `fix: anchor code fences to avoid splitting on nested backticks`<br/>[**#1445**](https://github.com/google-gemini/cookbook/pull/1445): `fix(nblint): preserve multiline strings containing magic-like lines`<br/>[**#1436**](https://github.com/google-gemini/cookbook/pull/1436): `fix(link-checker): exclude fenced code blocks from anchor extraction` | [![Active](https://img.shields.io/badge/PR_%23849-Active-238636?style=flat-square&logo=google&logoColor=white)](https://github.com/google/etils/pull/849)<br/>[![Active](https://img.shields.io/badge/PR_%23604-Active-238636?style=flat-square&logo=google&logoColor=white)](https://github.com/google/langextract/pull/604)<br/>[![Merged](https://img.shields.io/badge/PR_%231445-Merged-8957e5?style=flat-square&logo=google&logoColor=white)](https://github.com/google-gemini/cookbook/pull/1445)<br/>[![Merged](https://img.shields.io/badge/PR_%231436-Merged-8957e5?style=flat-square&logo=google&logoColor=white)](https://github.com/google-gemini/cookbook/pull/1436) |
-| <img src="https://avatars.githubusercontent.com/u/58486408?s=48&v=4" width="20" height="20" valign="middle" /> **JAX** | `High-Performance Numerical & Tensor Ops` | [**#42242**](https://github.com/jax-ml/jax/pull/42242): `fix(nonzero): pad empty arrays with fill_value under vmap/jit` *(aligned with core #42238)* | [![Core Aligned](https://img.shields.io/badge/PR_%2342242-Core_Aligned-0969da?style=flat-square&logo=google&logoColor=white)](https://github.com/jax-ml/jax/pull/42242) |
-| <img src="https://avatars.githubusercontent.com/u/102146313?s=48&v=4" width="20" height="20" valign="middle" /> **Tenstorrent** | `Silicon Kernels & Math Ops` | [**#55598**](https://github.com/tenstorrent/tt-metal/pull/55598): `fix(moreh): prevent non-finite NaN in norm_backward for zero-norm slices`<br/>[**#55590**](https://github.com/tenstorrent/tt-metal/pull/55590): `fix(sfpu): Chebyshev polynomial bridge for lgamma precision (<4 ULP)`<br/>[**#55651**](https://github.com/tenstorrent/tt-metal/pull/55651): `fix(gather): route row-major to RmSingleRowSingleCore`<br/>[**#61500**](https://github.com/tenstorrent/tt-metal/pull/61500): `fix(ccl): credit alternate route in multicast all-gather on even rings` | [![Merged](https://img.shields.io/badge/PR_%2355598-Merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/tenstorrent/tt-metal/pull/55598)<br/>[![Approved](https://img.shields.io/badge/PR_%2355590-Approved-238636?style=flat-square&logo=git&logoColor=white)](https://github.com/tenstorrent/tt-metal/pull/55590)<br/>[![2 Active](https://img.shields.io/badge/2_PRs-Active-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/tenstorrent/tt-metal/pulls?q=is%3Apr+author%3Amohmedmm) |
-| <img src="https://avatars.githubusercontent.com/u/137684067?s=48&v=4" width="20" height="20" valign="middle" /> **vLLM Project** | `Distributed Inference Engine` | [**#59445**](https://github.com/vllm-project/vllm/pull/59445): `fix: prevent path traversal outside cache directory in FilesystemResolver`<br/>[**#60649**](https://github.com/vllm-project/vllm/pull/60649): `fix(benchmarks): support boolean filter values in sweep plot CLI` | [![2 Active](https://img.shields.io/badge/2_PRs-Active-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3Amohmedmm) |
-| <img src="https://avatars.githubusercontent.com/u/79515904?s=48&v=4" width="20" height="20" valign="middle" /> **Qdrant** | `Vector Embedding Runtimes` | [**#717**](https://github.com/qdrant/fastembed/pull/717): `Normalize dynamic tokenizer padding for ONNX embedding pipelines` *(co-author)*<br/>[**#10775**](https://github.com/qdrant/qdrant/pull/10775): `fix: return non-positive distance in binary quantization for L1 and L2` | [![Merged](https://img.shields.io/badge/PR_%23717-Merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/qdrant/fastembed/pull/717)<br/>[![Active](https://img.shields.io/badge/PR_%2310775-Active-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/qdrant/qdrant/pull/10775) |
-| <img src="https://avatars.githubusercontent.com/u/25720743?s=48&v=4" width="20" height="20" valign="middle" /> **Hugging Face** | `Transformers Framework` | [**#48549**](https://github.com/huggingface/transformers/pull/48549): `feat(hf_argparser): support dict-typed dataclass fields from CLI` *(fixes #48030)* | [![Active](https://img.shields.io/badge/PR_%2348549-Active-238636?style=flat-square&logo=huggingface&logoColor=white)](https://github.com/huggingface/transformers/pull/48549) |
-| <img src="https://avatars.githubusercontent.com/u/132148187?s=48&v=4" width="20" height="20" valign="middle" /> **LiteLLM** | `AI Gateway & Proxy` | [**#47191**](https://github.com/BerriAI/litellm/pull/47191): `fix(transformations): raise on invalid completion responses for fireworks/ollama`<br/>[**#40282**](https://github.com/BerriAI/litellm/pull/40282): `fix(streaming): preserve reasoning tokens and usage in chunk builder`<br/>[**#41603**](https://github.com/BerriAI/litellm/pull/41603): `fix(proxy): resolve model_group_alias in vertex live setup extraction` | [![3 Active](https://img.shields.io/badge/3_PRs-Active-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Amohmedmm) |
-| <img src="https://avatars.githubusercontent.com/u/129705257?s=48&v=4" width="20" height="20" valign="middle" /> **LibreChat** | `Full-Stack AI Architecture` | [**#16223**](https://github.com/danny-avila/LibreChat/pull/16223): `Resolve file search indexing when attaching assets directly from files panel` | [![Merged](https://img.shields.io/badge/PR_%2316223-Merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/danny-avila/LibreChat/pull/16223) |
-| <img src="https://avatars.githubusercontent.com/u/14957082?s=48&v=4" width="20" height="20" valign="middle" /> **OpenAI** | `SDK & Workload Identity` | [**#4017**](https://github.com/openai/openai-python/issues/4017): `fix(auth): preserve response and prevent duplicate error wrapping in workload providers` | [![Verified Solution](https://img.shields.io/badge/Solution-Verified-0969da?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/openai-python/issues/4017#issuecomment-6278109476) |
-
-</div>
+| **Google** (`google-gemini/cookbook`) | `AI Framework & Dev Platform` | [**#1445**](https://github.com/google-gemini/cookbook/pull/1445): Preserve multiline strings with magic-like syntax in nblint<br/>[**#1436**](https://github.com/google-gemini/cookbook/pull/1436): Exclude fenced code blocks from markdown anchor extraction | [![Merged](https://img.shields.io/badge/PR_%231445-Merged-8957e5?style=flat-square&logo=google&logoColor=white)](https://github.com/google-gemini/cookbook/pull/1445)<br/>[![Merged](https://img.shields.io/badge/PR_%231436-Merged-8957e5?style=flat-square&logo=google&logoColor=white)](https://github.com/google-gemini/cookbook/pull/1436) |
+| **Tenstorrent** (`tt-metal`) | `Silicon Kernels & Math Ops` | [**#55598**](https://github.com/tenstorrent/tt-metal/pull/55598): Prevent non-finite NaN in Moreh `norm_backward` for zero-norm slices | [![Merged](https://img.shields.io/badge/PR_%2355598-Merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/tenstorrent/tt-metal/pull/55598) |
+| **Qdrant** (`fastembed`) | `Vector Embedding Runtime` | [**#717**](https://github.com/qdrant/fastembed/pull/717): Normalize dynamic tokenizer padding for ONNX embedding pipelines *(co-author)* | [![Merged](https://img.shields.io/badge/PR_%23717-Merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/qdrant/fastembed/pull/717) |
 
 ---
 
-## 🌟 About Me
+## 🔍 Active Upstream Pull Requests & In-Review
 
-- ⚙️ **Low-Level Systems & ML Runtimes:** Deep expertise in AI accelerators (Tenstorrent Wormhole/Blackhole), tensor compilers & numerical computing (JAX / XLA), quantization kernels (FP8, MXFP8, Int8), and high-throughput LLM serving via vLLM.
-- 🌐 **Enterprise Open Source:** Consistently landing high-precision fixes across industry-defining stacks including **Google**, **JAX**, **vLLM**, **Tenstorrent**, **Qdrant**, **Hugging Face**, and **LiteLLM**.
-- 🚀 **Full-Stack Architecture:** Building high-concurrency microservices, distributed real-time messaging, and reactive applications using Python, TypeScript, C++, and Flutter.
-- 🎯 **Engineering Discipline:** Focused on idiomatic code, minimal diffs, rigorous regression testing, and eliminating numerical instability in tensor operations.
+Contributions addressing edge-case exceptions, runtime routing, and CLI features across foundational ecosystems:
 
----
-
-## 🛠️ Tech Stack & Tooling
-
-<div align="center">
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### AI, Machine Learning & Silicon Runtimes
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-0075FF?style=for-the-badge&logo=google&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-111111?style=for-the-badge&logo=python&logoColor=white)
-![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Triton](https://img.shields.io/badge/OpenAI_Triton-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Backend & Distributed Systems
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### DevOps, Cloud & Automation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+| Organization / Project | Component | Contribution Details | Status |
+| :--- | :--- | :--- | :---: |
+| **OpenAI** (`openai/tiktoken`) | `BPE Tokenizer Runtime` | [**#631**](https://github.com/openai/tiktoken/pull/631): Normalize `KeyError` payloads across all public decode helpers for negative, out-of-range, and overflowing ranks | [![In Review](https://img.shields.io/badge/PR_%23631-In_Review-238636?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/tiktoken/pull/631) |
+| **LibreChat** (`LibreChat-AI/LibreChat`) | `Full-Stack AI Architecture` | [**#17748**](https://github.com/LibreChat-AI/LibreChat/pull/17748): Route first-party GPT-6 Sol and Luna agents with tools to Responses API | [![Open PR](https://img.shields.io/badge/PR_%2317748-Open-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/LibreChat-AI/LibreChat/pull/17748) |
+| **Google** (`google/etils`) | `Python Core Utilities` | [**#849**](https://github.com/google/etils/pull/849): Ensure case-insensitive hash consistency across Python versions in `StrEnum` | [![Open PR](https://img.shields.io/badge/PR_%23849-Open-238636?style=flat-square&logo=google&logoColor=white)](https://github.com/google/etils/pull/849) |
+| **Google** (`google/langextract`) | `Information Extraction` | [**#604**](https://github.com/google/langextract/pull/604): Anchor code fences to prevent improper splits on nested backticks | [![Open PR](https://img.shields.io/badge/PR_%23604-Open-238636?style=flat-square&logo=google&logoColor=white)](https://github.com/google/langextract/pull/604) |
+| **JAX** (`jax-ml/jax`) | `Numerical & Tensor Ops` | [**#42242**](https://github.com/jax-ml/jax/pull/42242): Pad empty arrays with fill_value under vmap/jit transforms | [![Open PR](https://img.shields.io/badge/PR_%2342242-Open-238636?style=flat-square&logo=google&logoColor=white)](https://github.com/jax-ml/jax/pull/42242) |
+| **Tenstorrent** (`tt-metal`) | `Silicon Kernels & Math Ops` | [**#55590**](https://github.com/tenstorrent/tt-metal/pull/55590): SFPU Chebyshev polynomial bridge for lgamma precision (<4 ULP)<br/>[**#55651**](https://github.com/tenstorrent/tt-metal/pull/55651): Route row-major gather to RmSingleRowSingleCore<br/>[**#61500**](https://github.com/tenstorrent/tt-metal/pull/61500): Credit alternate route in multicast all-gather on even rings | [![Approved](https://img.shields.io/badge/PR_%2355590-Approved-238636?style=flat-square&logo=git&logoColor=white)](https://github.com/tenstorrent/tt-metal/pull/55590)<br/>[![2 Active](https://img.shields.io/badge/2_PRs-Active-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/tenstorrent/tt-metal/pulls?q=is%3Apr+author%3Amohmedmm) |
+| **vLLM** (`vllm-project/vllm`) | `Distributed LLM Serving` | [**#59445**](https://github.com/vllm-project/vllm/pull/59445): Restrict cache path resolution to designated directory<br/>[**#60649**](https://github.com/vllm-project/vllm/pull/60649): Parse boolean filter arguments in benchmark sweep CLI | [![2 Active](https://img.shields.io/badge/2_PRs-Active-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3Amohmedmm) |
+| **Hugging Face** (`transformers`) | `ML Framework` | [**#48549**](https://github.com/huggingface/transformers/pull/48549): Support dict-typed dataclass fields in HfArgumentParser CLI | [![Open PR](https://img.shields.io/badge/PR_%2348549-Open-238636?style=flat-square&logo=huggingface&logoColor=white)](https://github.com/huggingface/transformers/pull/48549) |
+| **Qdrant** (`qdrant/qdrant`) | `Vector Database Engine` | [**#10775**](https://github.com/qdrant/qdrant/pull/10775): Correct non-positive distance calculation in binary quantization for L1/L2 | [![Open PR](https://img.shields.io/badge/PR_%2310775-Open-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/qdrant/qdrant/pull/10775) |
+| **LiteLLM** (`BerriAI/litellm`) | `AI Gateway & Proxy` | [**#47191**](https://github.com/BerriAI/litellm/pull/47191): Validate provider completion payloads<br/>[**#40282**](https://github.com/BerriAI/litellm/pull/40282): Preserve reasoning tokens in stream chunk builder<br/>[**#41603**](https://github.com/BerriAI/litellm/pull/41603): Resolve model_group_alias in Vertex live config extraction | [![3 Active](https://img.shields.io/badge/3_PRs-Active-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Amohmedmm) |
 
 ---
 
@@ -108,19 +52,38 @@
 
 <div align="center">
 
-| Project | Tech Stack | Overview |
+| Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| [**gemma-vf-agent**](https://github.com/mohmedmm/gemma-vf-agent) | `Python` `Gemma 4` `DeepMind` `Pytest` `AST` | Deterministic Verification-First Agentic Software Engineering with Gemma 4 (Google DeepMind Kaggle Paper Track). |
-| [**system-design-pro**](https://github.com/mohmedmm/system-design-pro) | `Architecture` `Distributed Systems` `Capacity Sizing` `Agent Skill` | Production Distributed Architecture Blueprints, Capacity Sizing Engine & Universal Agent Skill for Antigravity, Claude Code & Cursor. |
-| [**nbox**](https://github.com/mohmedmm/nbox) | `C++` `Neural Video` `Real-Time Upscaler` `ONNX` | Subtle Neural Video Enhancer & Real-Time Upscaler (240p -> 2K/4K) with Zero CPU Load. |
-| [**Libya_ID**](https://github.com/mohmedmm/Libya_ID) | `Python` `FastAPI` `Reverse Engineering` `PostgreSQL` | High-speed real-time caller identification and indexing engine built for local Libyan telecom carriers. |
-| **Card SMS & Virtual Numbers Hub** | `TypeScript` `Node.js` `PostgreSQL` `Redis` `Docker` | High-throughput virtual SMS verification gateway featuring multi-provider failover, rate-limiting windows, and transactional delivery. |
+| [**system-design-pro**](https://github.com/mohmedmm/system-design-pro) | `Architecture` `Distributed Systems` `CLI` `Agent Skill` | **Distributed Architecture Engine & Capacity Calculator**: Comprehensive system design blueprints across 28 domains, automated estimation tools, RFC templates, and universal agent skills for Cursor, Claude Code, and Antigravity. |
+| [**nbox**](https://github.com/mohmedmm/nbox) | `C++` `PyTorch` `ONNX Runtime` `CUDA` | **Neural Video Enhancer & Real-Time Upscaler**: GPU-accelerated video enhancement pipeline designed for low-latency upscaling and frame restoration without saturating host CPU resources. |
+| [**gemma-vf-agent**](https://github.com/mohmedmm/gemma-vf-agent) | `Python` `Gemma 4` `Pytest` `AST` | **Verification-First Agentic Harness**: Deterministic code synthesis and bug-hunting framework that enforces test-driven validation, AST parsing, and regression verification before landing code edits. |
+| [**Libya_ID**](https://github.com/mohmedmm/Libya_ID) | `Python` `FastAPI` `PostgreSQL` | **Carrier Directory Indexing Architecture**: Architecture specification and prototype lookup engine designed for high-throughput mobile number identification and structured query responses. |
+| **Card SMS Gateway** *(Enterprise Service)* | `TypeScript` `Node.js` `Redis` `PostgreSQL` | **Resilient Verification Gateway**: Multi-provider SMS dispatch infrastructure with automatic failover, sliding-window rate limiting, and idempotent delivery tracking. |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics & Streak
+## 🛠️ Technical Competency & Tooling
+
+```
+Core Languages       : Python (Advanced, Systems & Tooling), TypeScript / JavaScript, C++, Rust (Basics), SQL, Bash
+ML Runtimes & Math   : PyTorch, JAX, Hugging Face Transformers, ONNX Runtime, tiktoken (BPE), Vector Search (Qdrant)
+Systems & Backend    : FastAPI, Node.js (Express), PostgreSQL, Redis, REST APIs, JSON-RPC, Distributed Systems Design
+Engineering Tooling  : Git, Linux, Docker, GitHub Actions CI/CD, Pytest, Jest, GDB, Valgrind
+```
+
+---
+
+## 💡 Engineering Philosophy
+
+- **Zero Synthetic Bloat**: No superficial abstractions, unnecessary try/except wrappers, or cosmetic reformatting. Code changes must be minimal, focused, and directly address root causes.
+- **Idiomatic Alignment**: Strictly adhere to upstream codebase patterns, typing standards, and existing helper architectures.
+- **Test-Driven Correctness**: Every bugfix or feature must be verified with focused unit and regression tests covering edge-case inputs, type conversions, and boundary conditions.
+
+---
+
+## 📊 GitHub Analytics
 
 <table align="center" style="border: none; border-collapse: collapse; margin: auto;">
   <tr style="border: none;">
@@ -135,34 +98,13 @@
       </a>
     </td>
   </tr>
-  <tr style="border: none;">
-    <td align="center" colspan="2" style="border: none; padding: 6px;">
-      <a href="https://github.com/mohmedmm">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmedmm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="450" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
 
-## 📬 Let's Connect & Collaborate!
+## 📬 Contact & Links
 
-I'm always open to discussing new opportunities, open-source initiatives, or innovative high-performance engineering:
-
-- 🌐 **Platform & Portfolio:** [nbox.ly](https://nbox.ly)
+- 🌐 **Platform:** [nbox.ly](https://nbox.ly)
 - 💼 **GitHub:** [@mohmedmm](https://github.com/mohmedmm)
-- 📧 **Direct Email:** [alshaykh@nbox.ly](mailto:alshaykh@nbox.ly)
+- 📧 **Email:** [alshaykh@nbox.ly](mailto:alshaykh@nbox.ly)
 - 📍 **Location:** Tripoli, Libya
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Platform-nbox.ly-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nbox.ly)
-[![Email](https://img.shields.io/badge/Email-alshaykh%40nbox.ly-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alshaykh@nbox.ly)
-[![GitHub](https://img.shields.io/badge/GitHub-mohmedmm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohmedmm)
-
-<br/>
-
-<sub>Designed & engineered with precision by Mohammed Alshyakh • Open for high-impact systems & ML collaborations! ⭐</sub>
-
-</div>
