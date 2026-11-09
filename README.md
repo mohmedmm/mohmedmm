@@ -29,6 +29,19 @@ Direct code contributions merged into industry-standard open source repositories
 
 ---
 
+## GitHub Achievements
+
+<div align="center">
+
+| Achievement | Tier | Description | Official Badge |
+| :--- | :---: | :--- | :---: |
+| [**Pull Shark**](https://github.com/mohmedmm?tab=achievements) | `Base Tier` | Authored pull requests merged into production upstream repositories | <a href="https://github.com/mohmedmm?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="60" alt="Pull Shark" /></a> |
+| [**Pair Extraordinaire**](https://github.com/mohmedmm?tab=achievements) | `x2 (Silver)` | Co-authored commits on merged upstream pull requests across foundational AI ecosystems | <a href="https://github.com/mohmedmm?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="60" alt="Pair Extraordinaire" /></a> |
+
+</div>
+
+---
+
 ## Active Upstream Pull Requests & In-Review
 
 Contributions addressing edge-case exceptions, runtime routing, and CLI features across foundational ecosystems:
