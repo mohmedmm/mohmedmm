@@ -37,6 +37,8 @@ Direct code contributions merged into industry-standard open source repositories
 | :--- | :---: | :--- | :---: |
 | [**Pull Shark**](https://github.com/mohmedmm?tab=achievements) | `Base Tier` | Authored pull requests merged into production upstream repositories | <a href="https://github.com/mohmedmm?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="60" alt="Pull Shark" /></a> |
 | [**Pair Extraordinaire**](https://github.com/mohmedmm?tab=achievements) | `x2 (Bronze)` | Co-authored commits on merged upstream pull requests across foundational AI ecosystems | <a href="https://github.com/mohmedmm?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="60" alt="Pair Extraordinaire" /></a> |
+| [**Quickdraw**](https://github.com/mohmedmm?tab=achievements) | `Base Tier` | Closed an issue or pull request within 5 minutes of opening | <a href="https://github.com/mohmedmm?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="60" alt="Quickdraw" /></a> |
+| [**YOLO**](https://github.com/mohmedmm?tab=achievements) | `Base Tier` | Merged a pull request without code review | <a href="https://github.com/mohmedmm?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="60" alt="YOLO" /></a> |
 
 </div>
 
@@ -48,6 +50,7 @@ Contributions addressing edge-case exceptions, runtime routing, and CLI features
 
 | Organization / Project | Component | Contribution Details | Status |
 | :--- | :--- | :--- | :---: |
+| **Huawei Ascend / vLLM** (`vllm-project/vllm-ascend`) | `Ascend NPU Kernels & Runtime` | [**#21388**](https://github.com/vllm-project/vllm-ascend/pull/21388): Stage mixed spec query start loc cumsum on host CPU to eliminate device aclnn launches | [![In Review](https://img.shields.io/badge/PR_%2321388-In_Review-238636?style=flat-square&logo=huawei&logoColor=white)](https://github.com/vllm-project/vllm-ascend/pull/21388) |
 | **OpenAI** (`openai/tiktoken`) | `BPE Tokenizer Runtime` | [**#631**](https://github.com/openai/tiktoken/pull/631): Normalize `KeyError` payloads across all public decode helpers for negative, out-of-range, and overflowing ranks | [![In Review](https://img.shields.io/badge/PR_%23631-In_Review-238636?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/tiktoken/pull/631) |
 | **LibreChat** (`LibreChat-AI/LibreChat`) | `Full-Stack AI Architecture` | [**#17748**](https://github.com/LibreChat-AI/LibreChat/pull/17748): Route first-party GPT-6 Sol and Luna agents with tools to Responses API | [![Open PR](https://img.shields.io/badge/PR_%2317748-Open-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/LibreChat-AI/LibreChat/pull/17748) |
 | **Google** (`google/etils`) | `Python Core Utilities` | [**#849**](https://github.com/google/etils/pull/849): Ensure case-insensitive hash consistency across Python versions in `StrEnum` | [![Open PR](https://img.shields.io/badge/PR_%23849-Open-238636?style=flat-square&logo=google&logoColor=white)](https://github.com/google/etils/pull/849) |
@@ -92,6 +95,9 @@ Contributions addressing edge-case exceptions, runtime routing, and CLI features
 
 ### ML Runtimes & Math Ops
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Huawei Ascend](https://img.shields.io/badge/Huawei_Ascend_NPU-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white)
+![Huawei CANN](https://img.shields.io/badge/Huawei_CANN-000000?style=for-the-badge&logo=huawei&logoColor=white)
+![Tenstorrent](https://img.shields.io/badge/Tenstorrent_TT--Metal-00D2B4?style=for-the-badge&logo=cplusplus&logoColor=black)
 ![JAX](https://img.shields.io/badge/JAX-0075FF?style=for-the-badge&logo=google&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
